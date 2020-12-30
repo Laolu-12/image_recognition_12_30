@@ -14,4 +14,29 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dip-class-demos.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="funtions.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="parameters.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="funtions.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
